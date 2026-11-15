@@ -67,6 +67,6 @@ Berdasarkan praktikum yang telah dilakukan, Association Rule Mining dapat diguna
 
 ---
 
-**Mata Kuliah:** Data Mining  
+**Mata Kuliah:** Data Mining (Assesment Kamis 15.00)
 **Topik:** Association Rule Mining (Market Basket Analysis)  
 **Studi Kasus:** Transaksi Apotek
