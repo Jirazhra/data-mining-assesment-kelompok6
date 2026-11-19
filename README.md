@@ -52,6 +52,14 @@ Praktikum-ARM-Apotek/
 ├── apotek_transactions.csv
 ├── apotek_transactions_onehot.csv
 └── README.md
+Praktikum-ARM-MarketBasketAnalysis/
+│
+├── Praktikum_Association Rule Mining_(Market Basket Analysis).ipynb
+├── Tugas_Praktikum_ARM_5.1d4.ipynb
+├── Tugas_Praktikum_ARM_5.2.ipynb
+├── Tugas_Praktikum_ARM_5.3.ipynb
+├── transactions_arm_praktikum.csv
+└── transactions_arm_praktikum_onehot.csv
 ```
 
 ## Hasil Praktikum
